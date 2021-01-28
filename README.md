@@ -6,5 +6,5 @@ Country와 함꼐하는 Git 교실
 
 
 
-- fast-foward exer
+- fast-foward exer / conflict test
 - 3-way other
